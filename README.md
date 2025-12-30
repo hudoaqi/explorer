@@ -1,6 +1,8 @@
 # EthExplorer (In Progress)
 
-![EthExplorer Screenshot](http://i.imgur.com/NHFYq0x.png)
+![image-20251230105100260](C:\Users\14999\AppData\Roaming\Typora\typora-user-images\image-20251230105100260.png)
+
+![image-20251230105329655](C:\Users\14999\AppData\Roaming\Typora\typora-user-images\image-20251230105329655.png)
 
 ##License
 
